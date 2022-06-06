@@ -25,6 +25,13 @@ pip3 install requests
     Usage: in alfred search type: il and you will get list of rss to fetch
 
 
+2. uptime 
+
+   Usage: in alfred type uptime. this is as basic as it get workflow
+   No Python needed to use this workflow
+
+App icons from: https://icons8.com/ , free and paid options avialiable there.
+
 
 This repo owned by Barak Bloch and not affiliated with Alfred or any other sources used in workflows
 Feel free to fork, hack, improve or just use it.
