@@ -10,12 +10,10 @@ Double click on workflow will open it directly in alfred
 
 Alfred powerpack needed in order to run workflows in Alfred
 
-Python 3 must be installed in order to use this workflow. 
-python3 should be in path (as /usr/bin/python)
 
 Require  only one external library: requests, if needed install it, run in terminal:
 ```
-pip3 install requests
+pip install requests
 ```
 
 
