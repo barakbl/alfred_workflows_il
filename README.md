@@ -1,17 +1,17 @@
 # alfred_workflows_il
-Alfred Workflows for Israelis. 
+Alfred Workflows
 
-Just a simple Workflows i created for my self, and decided to publish as an open source.
+Just a simple Workflows i created for myself, and decided to publish them for you.
 
 
 ## INSTALL
-Download any workflow (files with alfredworkflow suffix)
+Download any of the workflows (files with alfredworkflow suffix)
 Double click on workflow will open it directly in alfred
 
 Alfred powerpack needed in order to run workflows in Alfred
 
 Python 3 must be installed in order to use this workflow. 
-python3 should be in path
+python3 should be in path (as /usr/bin/python)
 
 Require  only one external library: requests, if needed install it, run in terminal:
 ```
@@ -34,11 +34,16 @@ pip3 install requests
     
     a simple EPG for Channel 12)
    
-App icons from: https://icons8.com/ , free and paid options avialiable there.
+4. ip
+    a simple workflow to get internal and exteranl IP
+   
+App icons from: https://icons8.com/ 
+free and paid options website for icons. 
 
 
 This repo owned by Barak Bloch and not affiliated with Alfred or any other sources used in workflows
-Feel free to fork, hack, improve or just use it.
+Feel free to fork, hack, improve or just use them. 
+
 
 
 
