@@ -30,6 +30,10 @@ pip3 install requests
    Usage: in alfred type uptime. this is as basic as it get workflow
    No Python needed to use this workflow
 
+3. mako 
+    
+    a simple EPG for Channel 12)
+   
 App icons from: https://icons8.com/ , free and paid options avialiable there.
 
 
