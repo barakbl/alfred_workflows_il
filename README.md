@@ -35,7 +35,8 @@ pip3 install requests
     a simple EPG for Channel 12)
    
 4. ip
-    a simple workflow to get internal and exteranl IP
+
+    a minimal workflow to get internal and exteranl IP
    
 App icons from: https://icons8.com/ 
 free and paid options website for icons. 
